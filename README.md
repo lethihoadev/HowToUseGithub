@@ -6,7 +6,7 @@ Tạo folder (HowToUseGithub) ->cd đến folder đã tạo
 B1: Mở folder đã tạo (dùng sublime)
 B2: git init
 B3: git remote add origin (origin như một đường link, có thể thay đổi bằng tên khác)
-B4: git remove -v (kiểm tra xem câu lệnh đã đúng hay chưa)
+B4: git remote -v (kiểm tra xem câu lệnh đã đúng hay chưa)
 
 ## Đẩy Code:
 B1: Tạo file bất kỳ (index.html, index.js)
